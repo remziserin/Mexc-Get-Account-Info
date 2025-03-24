@@ -40,5 +40,5 @@ Durch den Aufruf der Funktionen können folgende Informationen abgerufen werden:
 Für Feedback oder Zusammenarbeit können Sie mich gerne kontaktieren:
 
 
-- **E-Mail:** [kolnremzi@gmail.com](mailto:kolnremzi@gmail.com)
+- **E-Mail:** [Meine E-mail](mailto:kolnremzi@gmail.com)
 
