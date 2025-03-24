@@ -25,7 +25,7 @@ Fügen Sie Ihre MEXC-API-Anmeldeinformationen in den Variablen **API_KEY** und *
 ### 3️⃣ Projekt starten
 
 ```bash
-node app.js
+node accountInfoGet.js
 ```
 
 ## 📜 API-Antworten
